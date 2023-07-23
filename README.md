@@ -1,11 +1,11 @@
-# 💫 About Me:
+#  About Me:
 <div>
 - I am currently working on my portfolio projects <br> - I study front-end development, as well as the React user interface library.<br> - Playing guitar<br> - In my free time I like to play computer games
 </div>
  
 
 
-## 🌐 Socials:
+##  Socials:
 <div id="badges">
   <a href="https://www.linkedin.com/in/roman-bulanov/">
     <img src="https://img.shields.io/badge/LinkedIn-rgb(0,%20238,%20255)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,7 +22,7 @@
 </div>
 
 
-## 💻 Tech Stack:
+##  Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-rgb(0,%20238,%20255).svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-rgb(0,%20238,%20255).svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-rgb(0,%20238,%20255).svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-rgb(0,%20238,%20255).svg?style=for-the-badge&logo=react&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-rgb(0,%20238,%20255).svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
