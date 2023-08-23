@@ -8,7 +8,7 @@
 ##  Socials:
 <div id="badges">
   <a href="https://www.linkedin.com/in/roman-bulanov/">
-    <img src="https://img.shields.io/badge/LinkedIn-rgb(0,%20238,%20255)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-rgb(50,%2057,%2070)?style=for-the-badge&logo=linkedin&logoColor=rgb(0,%20238,%20255)" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/bulanov_roman">
     <img src="https://img.shields.io/badge/Telegram-rgb(0,%20238,%20255)?style=for-the-badge&logo=telegram&logoColor=white"/>
