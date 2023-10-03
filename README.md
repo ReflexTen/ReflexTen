@@ -28,9 +28,13 @@
 ##  My best projects:
 <div id="my-project">
   <a href="https://reflexten.github.io/no-code_landing-react/">"No-code Production" - website of a company developing websites using low-code and no-code technologies</a>
+ <br>
   <a href="https://reflexten.github.io/weather-app/">"Weather"- web application</a>
+  <br>
   <a href="https://reflexten.github.io/family-doctor/">"Family doctor" - dental clinic website</a>
+  <br>
   <a href="https://reflexten.github.io/auto-online/">"AutoOnline" - online driving school website</a>
+  <br>
   <a href="https://reflexten.github.io/photo-gallery_react//">"Photo gallery" - photo gallery layout</a>
 </div>
 
