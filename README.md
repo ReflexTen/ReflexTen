@@ -27,15 +27,15 @@
 
 ##  My best projects:
 <div id="my-project">
-  <a href="https://reflexten.github.io/no-code_landing-react/"></a>
+  <a href="https://reflexten.github.io/no-code_landing-react/">"No-code Production" - website of a company developing websites using low-code and no-code technologies</a>
  
-  <a href="https://reflexten.github.io/weather-app/"></a>
+  <a href="https://reflexten.github.io/weather-app/">"Weather"- web application</a>
   
-  <a href="https://reflexten.github.io/family-doctor/"></a>
+  <a href="https://reflexten.github.io/family-doctor/">"Family doctor" - dental clinic website</a>
   
-  <a href="https://reflexten.github.io/auto-online/"></a>
+  <a href="https://reflexten.github.io/auto-online/">"AutoOnline" - online driving school website</a>
   
-  <a href="https://reflexten.github.io/photo-gallery_react//"></a>
+  <a href="https://reflexten.github.io/photo-gallery_react//">"Photo gallery" - photo gallery layout</a>
 </div>
 
 
